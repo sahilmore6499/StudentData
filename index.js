@@ -1,6 +1,6 @@
-var token = "90937884|-31949272429615463|90952116";
-        var dbName = "Student";
-        var relName = "Student-Rel"
+var token = "90932329|-31949271269590947|90953780";
+        var dbName = "SCHOOL-DB";
+        var relName = "STUDENT-TABLE"
         resetForm()
         function validateAndGetFornData() {
             var rollnoVar = $("#rollno").val();
